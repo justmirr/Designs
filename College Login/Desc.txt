@@ -1,1 +1,2 @@
-
+It is a simple but modern login page design, I have used my college logo as an example.
+The color combination is partly based on the logo palette.

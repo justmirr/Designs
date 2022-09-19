@@ -1,0 +1,2 @@
+This is a simple calculator app design in both light and dark theme.
+Created on frame 'iPhone 13 Pro'.
